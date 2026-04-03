@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  [Discord] - ATIO is a Script Gathering for Windows/Linux systems written in Python.
+  [Discord] - Weave Tools is a Script Gathering for Windows/Linux systems written in Python.
 </p>
 
 ---
