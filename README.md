@@ -2,7 +2,7 @@
   <img src="https://3684636823-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FAAWXLgBhsxb38Q3iF3ha%2Fsocialpreview%2FJYYwVSNx9yLnXY8adfAU%2Fbanner.png?alt=media&token=264b3ce3-6643-4b55-8990-ca5cd2516dce">
 </p>
 
-<h1 align="center">[Discord] - ATIO (V1.3.0)</h1>
+<h1 align="center">[Discord] - Weave Tools (V1.0.0)</h1>
 <p align="center">
   <a href="https://github.com/mrsyntaxdev/Discord-All-Tools-In-One/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-important">
